@@ -1,0 +1,19 @@
+Single Inheritance:
+Name: Sumit
+Student class derived from Person
+
+Multiple Inheritance:
+Name: Rahul
+Playing sports
+Result class using multiple inheritance
+
+Multilevel Inheritance:
+Class A
+Class B derived from A
+Class C derived from B
+
+Hierarchical Inheritance:
+Animal speaks
+Dog barks
+Animal speaks
+Cat meows
