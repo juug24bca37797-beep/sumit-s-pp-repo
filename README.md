@@ -27,7 +27,7 @@ All programs are written in a **simple and beginner-friendly way** to help under
 
 [![Experiment 9][(https://img.shields.io/badge/Experiment%209-NumPy%20%26%20Pandas-black)](Experiment_9/exp9.py)](https://github.com/juug24bca37797-beep/sumit-s-pp-repo/tree/f1ed6dd1d62a5c17325462ebc64122177039dfaf/Experiment_9)
 
-[![Experiment 10](https://img.shields.io/badge/Experiment%2010-NumPy%20%26%20Pandas-pink)](Experiment_10/exp10.py)
+[![Experiment 10]([https://img.shields.io/badge/Experiment%2010-NumPy%20%26%20Pandas-pink)](Experiment_10/exp10.py)](https://github.com/juug24bca37797-beep/sumit-s-pp-repo/tree/b0a65d2a46b6b6ea15389d6ced9ab493956367b9/Experiment_10)
 
 ---
 
